@@ -3,6 +3,6 @@ This tool is used to convert old-style test262 tests to the proposed new style u
 
 #### Usage
 ```
-> npm install glob
+> npm install glob wordwrap
 > node bin\transform.js glob/to/files/to/transform/**/*.js
 ```
